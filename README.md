@@ -22,34 +22,6 @@
 | **Currently Learning** | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open_Source-FF6600?style=flat&logoColor=white) |
 
 
-### 📈 GitHub Activity
-
-<!--   green snake -->
-![404NOTFOUND's github activity graph](https://raw.githubusercontent.com/404NOTFOUND/404NOTFOUND/output/github-contribution-grid-snake.svg)
-
-<!--   stats + languages -->
-| . | . |
-|---|---|
-| ![404NOTFOUND's github stats](https://github-readme-stats.vercel.app/api?username=404NOTFOUND&show_icons=true&theme=radical&include_all_commits=true) | ![404NOTFOUND's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404NOTFOUND&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=404NOTFOUND"></img>
-
-<!-- dark snake -->
-![404NOTFOUND's github activity graph](https://raw.githubusercontent.com/404NOTFOUND/404NOTFOUND/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404NOTFOUND" alt="404NOTFOUND" /></a>
-</p>
-
-
 #### Thanks for visiting :heart:
 
 <p align="center">
