@@ -6,14 +6,23 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=404NOTFOUND&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=zh-CN" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404NOTFOUND&layout=compact&theme=radical&hide_border=true&locale=zh-CN" />
+  <a href="https://github.com/404NOTFOUND">
+    <img src="https://img.shields.io/github/followers/404NOTFOUND?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/404NOTFOUND">
+    <img src="https://img.shields.io/github/stars/404NOTFOUND?label=Stars&style=social" />
+  </a>
+  <a href="https://github.com/404NOTFOUND">
+    <img src="https://img.shields.io/github/last-commit/404NOTFOUND?label=Last%20Commit&style=social" />
+  </a>
 </p>
 
-## 📈 贡献日历
+## 📈 仓库概览
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=404NOTFOUND&theme=radical&hide_border=true&locale=zh-CN" />
+  <a href="https://github.com/404NOTFOUND">
+    <img src="https://img.shields.io/badge/Repos-查看仓库-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ## 🛠️ 技术栈
